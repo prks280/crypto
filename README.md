@@ -1,0 +1,2 @@
+# crypto
+regarding current crypto 
